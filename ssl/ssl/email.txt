@@ -1,0 +1,39 @@
+Date: Tue, 12 Dec 2017 21:15:29 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>
+Subject: null
+X-Priority: 3
+X-GUID: 731BED03-3C6A-4B54-9A69-79AFFDB3A57B
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <2017121221152948127517@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart322878276560_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart322878276560_=----
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: base64
+
+bnVsbA0KDQoNCg0KeG5pZ2h0bWFyZUAxNjMuY29tDQo=
+
+------=_001_NextPart322878276560_=----
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DISO-8859-1"><style>body { line-height: 1.5; }body { font-size: 10.5pt;=
+ font-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5;=
+ }body { font-family: 'Microsoft YaHei UI'; font-size: 10.5pt; color: rgb(=
+0, 0, 0); line-height: 1.5; }</style></head><body>=0A<div><span></span>nul=
+l</div>=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=3D=
+"#b5c4df" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN: 10=
+px; FONT-FAMILY: verdana; FONT-SIZE: 10pt"><div>xnightmare@163.com</div></=
+div></span></div>=0A</body></html>
+------=_001_NextPart322878276560_=------
+
+.

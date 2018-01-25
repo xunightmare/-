@@ -1,0 +1,16 @@
+﻿  ssl.cpp
+c:\users\54976\source\repos\ssl\ssl\ssl.cpp(117): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+c:\users\54976\source\repos\ssl\ssl\ssl.cpp(78): warning C4101: “request”: 未引用的局部变量
+c:\users\54976\source\repos\ssl\ssl\ssl.cpp(136): warning C4101: “fd”: 未引用的局部变量
+c:\users\54976\source\repos\ssl\ssl\ssl.cpp(268): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+c:\users\54976\source\repos\ssl\ssl\ssl.cpp(262): warning C4101: “host”: 未引用的局部变量
+c:\users\54976\source\repos\ssl\ssl\ssl.cpp(350): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+c:\users\54976\source\repos\ssl\ssl\ssl.cpp(354): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+c:\users\54976\source\repos\ssl\ssl\ssl.cpp(387): warning C4172: 返回局部变量或临时变量的地址: tBuffer
+c:\users\54976\source\repos\ssl\ssl\ssl.cpp(415): warning C4172: 返回局部变量或临时变量的地址: tBuffer
+  ssl.vcxproj -> C:\Users\54976\source\repos\ssl\Debug\ssl.exe
+  ssl.vcxproj -> C:\Users\54976\source\repos\ssl\Debug\ssl.pdb (Partial PDB)
