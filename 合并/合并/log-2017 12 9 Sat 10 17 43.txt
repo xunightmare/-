@@ -1,0 +1,14 @@
+log-2017 12 9 Sat 10 17 43.txt
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <fsfsjdf@jfljslf>
+
+收件人地址格式错误

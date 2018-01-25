@@ -1,0 +1,13 @@
+log-2017 12 6 Wed 21 11 31.txt
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <xnightmare@bupt.edu.cn>
+

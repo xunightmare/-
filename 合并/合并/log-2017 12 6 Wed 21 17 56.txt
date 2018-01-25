@@ -1,0 +1,42 @@
+log-2017 12 6 Wed 21 17 56.txt
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <xnightmare@bufsdfpt.edu.cn>
+
+250 Mail OK
+
+RCPT TO: <xnightmare@sina.com>
+
+250 Mail OK
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Wed, 6 Dec 2017 21:18:20 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bufsdfpt.edu.cn>, 
+	xnightmare <xnightmare@sina.com>
+Subject: null
+X-Priority: 3
+X-GUID: 24B8C5F4-730F-4840-8C53-FCDE7D454CAB
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <20171206211820677940107@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart867070084815_=----"
+
+
+250 Mail OK
+
+QUIT
+

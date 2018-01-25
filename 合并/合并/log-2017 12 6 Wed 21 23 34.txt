@@ -1,0 +1,165 @@
+log-2017 12 6 Wed 21 23 34.txt
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <1@bupt.edu.cn>
+
+250 Mail OK
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Wed, 6 Dec 2017 21:23:47 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: 1 <1@bupt.edu.cn>
+Subject: null
+X-Priority: 3
+X-GUID: 7E33894E-54F3-4903-81D0-DE33C6768D00
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <20171206212347123946112@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart743642631464_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart743642631464_=----
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: base64
+
+aGVsbG8NCg0KDQoNCnhuaWdodG1hcmVAMTYzLmNvbQ0K
+
+------=_001_NextPart743642631464_=----
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DISO-8859-1"><style>body { line-height: 1.5; }body { font-size: 10.5pt;=
+ font-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5;=
+ }body { font-size: 10.5pt; font-family: 'Microsoft YaHei UI'; color: rgb(=
+0, 0, 0); line-height: 1.5; }</style></head><body>=0A<div><span></span>hel=
+lo</div>=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=
+=3D"#b5c4df" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN:=
+ 10px; FONT-FAMILY: verdana; FONT-SIZE: 10pt"><div>xnightmare@163.com</div=
+></div></span></div>=0A</body></html>
+------=_001_NextPart743642631464_=------
+
+.
+
+250 Mail OK
+
+QUIT
+
+220 mx-11-43.mxsmail.fmail.tg.sinanode.com ESMTP
+
+EHLO LAPTOP-I0T5EB7U
+
+250-mx-11-43.mxsmail.fmail.tg.sinanode.com
+250 8BITMIME
+
+MAIL FROM: <xnightmare@163.com>
+
+250 ok
+
+RCPT TO: <1@bupt.edu.cn>
+
+554 User no found.
+
+DATA
+
+503 RCPT first
+
+Date: Wed, 6 Dec 2017 21:23:47 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: 1 <1@bupt.edu.cn>
+Subject: null
+X-Priority: 3
+X-GUID: 7E33894E-54F3-4903-81D0-DE33C6768D00
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <20171206212347123946112@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart743642631464_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart743642631464_=----
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: base64
+
+aGVsbG8NCg0KDQoNCnhuaWdodG1hcmVAMTYzLmNvbQ0K
+
+------=_001_NextPart743642631464_=----
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DISO-8859-1"><style>body { line-height: 1.5; }body { font-size: 10.5pt;=
+ font-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5;=
+ }body { font-size: 10.5pt; font-family: 'Microsoft YaHei UI'; color: rgb(=
+0, 0, 0); line-height: 1.5; }</style></head><body>=0A<div><span></span>hel=
+lo</div>=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=
+=3D"#b5c4df" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN:=
+ 10px; FONT-FAMILY: verdana; FONT-SIZE: 10pt"><div>xnightmare@163.com</div=
+></div></span></div>=0A</body></html>
+------=_001_NextPart743642631464_=------
+
+.
+
+502 unimplemented (#5.5.1)
+
+QUIT
+
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+502 unimplemented (#5.5.1)
+

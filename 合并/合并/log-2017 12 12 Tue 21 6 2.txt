@@ -1,0 +1,60 @@
+2017 12 12 Tue 21 6 2
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <1@bupt.edu.cn>
+
+250 Mail OK
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Tue, 12 Dec 2017 21:06:10 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: 1 <1@bupt.edu.cn>
+Subject: hello
+X-Priority: 3
+X-GUID: AAF5A876-EED9-4F6B-B32C-CB7436AE28EF
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <201712122106105954889@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart530152768165_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart530152768165_=----
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: base64
+
+aGVsbG8NCg0KDQoNCnhuaWdodG1hcmVAMTYzLmNvbQ0K
+
+------=_001_NextPart530152768165_=----
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3Dus-ascii"><style>body { line-height: 1.5; }body { font-size: 10.5pt; f=
+ont-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5; }=
+</style></head><body>=0A<div><span></span>hello</div>=0A<div><br></div><hr=
+ style=3D"width: 210px; height: 1px;" color=3D"#b5c4df" size=3D"1" align=
+=3D"left">=0A<div><span><div style=3D"MARGIN: 10px; FONT-FAMILY: verdana; =
+FONT-SIZE: 10pt"><div>xnightmare@163.com</div></div></span></div>=0A</body=
+></html>
+------=_001_NextPart530152768165_=------
+
+.
+
+250 Mail OK
+

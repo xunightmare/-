@@ -1,0 +1,15 @@
+2017 12 12 Tue 21 12 21
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <fsf@faf>
+
+554 5.5.1 Error: no valid recipients
+

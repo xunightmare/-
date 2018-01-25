@@ -1,0 +1,7 @@
+log-2017 12 5 Tue 21 49 9.txt
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+

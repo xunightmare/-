@@ -1,0 +1,88 @@
+log-2017 12 5 Tue 21 55 31.txt
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <549761281@qq.com>
+
+250 Mail OK
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Tue, 5 Dec 2017 21:55:35 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: 549761281 <549761281@qq.com>
+Subject: hello world!
+X-Priority: 3
+X-GUID: 28DA9D28-D02F-4795-BFB7-3103D2778720
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <2017120521553589461330@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart820377078283_=----"
+
+
+250 Mail OK
+
+QUIT
+
+220 mx1.bupt.edu.cn ESMTP AnyMacro(G7)
+
+EHLO LAPTOP-I0T5EB7U
+
+250-mx1.bupt.edu.cn
+250-PIPELINING
+250-SIZE 1524000000
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+
+MAIL FROM: <xnightmare@163.com>
+
+250 2.1.0 Ok
+
+RCPT TO: <549761281@qq.com>
+
+554 5.7.1 <549761281@qq.com>: Relay access denied
+
+DATA
+
+554 5.5.1 Error: no valid recipients
+
+Date: Tue, 5 Dec 2017 21:55:35 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: 549761281 <549761281@qq.com>
+Subject: hello world!
+X-Priority: 3
+X-GUID: 28DA9D28-D02F-4795-BFB7-3103D2778720
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <2017120521553589461330@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart820377078283_=----"
+
+
+
+.
+
+221 2.7.0 Error: I can break rules, too. Goodbye.
+
+QUIT
+
+
+RSET
+

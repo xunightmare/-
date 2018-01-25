@@ -1,0 +1,79 @@
+2017 12 10 Sun 12 52 1
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <lw-lyq@163.com>
+
+250 Mail OK
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Sun, 10 Dec 2017 12:52:37 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: lw-lyq <lw-lyq@163.com>
+Subject: null
+X-Priority: 3
+X-GUID: 4413076D-DCB4-435B-A429-222B2F6FFECD
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <201712101248464220258@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart170343678082_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart170343678082_=----
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: base64
+
+bnVsbA0KDQoNCg0KeG5pZ2h0bWFyZUAxNjMuY29tDQo=
+
+------=_001_NextPart170343678082_=----
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3Dus-ascii"><style>body { line-height: 1.5; }body { font-size: 10.5pt; f=
+ont-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5; }=
+</style></head><body>=0A<div><span></span>null</div>=0A<div><br></div><hr =
+style=3D"width: 210px; height: 1px;" color=3D"#b5c4df" size=3D"1" align=3D=
+"left">=0A<div><span><div style=3D"MARGIN: 10px; FONT-FAMILY: verdana; FON=
+T-SIZE: 10pt"><div>xnightmare@163.com</div></div></span></div>=0A</body></=
+html>
+------=_001_NextPart170343678082_=------
+
+.
+
+220 163.com Anti-spam GT for Coremail System (163com[20141201])
+
+EHLO LAPTOP-I0T5EB7U
+
+250-mail
+250-PIPELINING
+250-AUTH LOGIN PLAIN 
+250-AUTH=LOGIN PLAIN
+250-coremail 1Uxr2xKj7kG0xkI17xGrU7I0s8FY2U3Uj8Cz28x1UUUUU7Ic2I0Y2UrZAJceUCa0xDrUUUUj
+250-STARTTLS
+250-SIZE 73400320
+250 8BITMIME
+
+MAIL FROM: <xnightmare@163.com>
+
+553 Local user is not allowed,163 mx2,NMCowADH1U6fvSxaEwXbAw--.35455S2 1512881567
+
+553 Local user is not allowed,163 mx2,NMCowADH1U6fvSxaEwXbAw--.35455S2 1512881567
+
+250 Mail OK
+

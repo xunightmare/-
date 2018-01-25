@@ -1,0 +1,59 @@
+log-2017 12 8 Fri 22 36 24.txt
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <xnightmare@bupt.edu.cn>
+
+250 Mail OK
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Fri, 8 Dec 2017 22:36:49 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>
+Subject: null
+X-Priority: 3
+X-GUID: A8D7DA40-996B-478B-BB22-ABC4C6409506
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <2017120822364970523935@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart862241670174_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart862241670174_=----
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: base64
+
+bnVsbA==
+
+------=_001_NextPart862241670174_=----
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DISO-8859-1"><style>body { line-height: 1.5; }body { font-size: 10.5pt;=
+ font-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5;=
+ }body { font-size: 10.5pt; font-family: 'Microsoft YaHei UI'; color: rgb(=
+0, 0, 0); line-height: 1.5; }</style></head><body>null</body></html>
+------=_001_NextPart862241670174_=------
+
+.
+
+250 Mail OK
+
+QUIT
+

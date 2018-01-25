@@ -1,0 +1,90 @@
+log-2017 12 5 Tue 21 57 11.txt
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <xnightmare@bupt.edu.cn>
+
+250 Mail OK
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Tue, 5 Dec 2017 21:57:52 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>
+Subject: null
+X-Priority: 3
+X-GUID: 06520596-A8D4-493B-9DE9-45B5375545A8
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <2017120521575198680633@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart511261605852_=----"
+
+
+250 Mail OK
+
+QUIT
+
+220 mx1.bupt.edu.cn ESMTP AnyMacro(G7)
+
+EHLO LAPTOP-I0T5EB7U
+
+250-mx1.bupt.edu.cn
+250-PIPELINING
+250-SIZE 1524000000
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+
+MAIL FROM: <xnightmare@163.com>
+
+250 2.1.0 Ok
+
+RCPT TO: <xnightmare@bupt.edu.cn>
+
+250 2.1.5 Ok
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Tue, 5 Dec 2017 21:57:52 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>
+Subject: null
+X-Priority: 3
+X-GUID: 06520596-A8D4-493B-9DE9-45B5375545A8
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <2017120521575198680633@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart511261605852_=----"
+
+
+
+.
+
+250 2.0.0 Ok: queued as 6CAFC19F398
+
+QUIT
+
+221 2.0.0 Bye
+
+RSET
+
+

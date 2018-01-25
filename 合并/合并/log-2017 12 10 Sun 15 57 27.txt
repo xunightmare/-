@@ -1,0 +1,87 @@
+2017 12 10 Sun 15 57 27
+220 beta OK
+
+EHLO WIN-JGUUS7JQP70
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <jljflds@jflsdj.com>
+
+250 Mail OK
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Sun, 10 Dec 2017 15:57:30 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: jljflds <jljflds@jflsdj.com>
+Subject: jlj
+X-Priority: 3
+X-GUID: C0A7CEAA-E94C-467B-8B69-CA0F5D8541BB
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <201712101556180189961@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart785634405245_=----"
+
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart785634405245_=----
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: base64
+
+YWFhDQoNCg0KDQp4bmlnaHRtYXJlQDE2My5jb20NCg==
+
+------=_001_NextPart785634405245_=----
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DISO-8859-1"><style>body { line-height: 1.5; }body { font-size: 10.5pt;=
+ font-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5;=
+ }body { font-size: 10.5pt; font-family: 'Microsoft YaHei UI'; color: rgb(=
+0, 0, 0); line-height: 1.5; }</style></head><body>=0A<div><span></span>aaa=
+</div>=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=3D"=
+#b5c4df" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN: 10p=
+x; FONT-FAMILY: verdana; FONT-SIZE: 10pt"><div>xnightmare@163.com</div></d=
+iv></span></div>=0A</body></html>
+------=_001_NextPart785634405245_=------
+
+.
+
+220 mx1.bupt.edu.cn ESMTP AnyMacro(G7)
+
+EHLO WIN-JGUUS7JQP70
+
+250-mx1.bupt.edu.cn
+250-PIPELINING
+250-SIZE 1524000000
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+
+MAIL FROM: <xnightmare@163.com>
+
+250 2.1.0 Ok
+
+RCPT TO: <jljflds@jflsdj.com>
+
+554 5.7.1 <jljflds@jflsdj.com>: Relay access denied
+
+554 5.7.1 <jljflds@jflsdj.com>: Relay access denied
+
+250 Mail OK
+

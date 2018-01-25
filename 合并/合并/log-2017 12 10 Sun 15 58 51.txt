@@ -1,0 +1,206 @@
+2017 12 10 Sun 15 58 51
+220 beta OK
+
+EHLO WIN-JGUUS7JQP70
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <xnightmare@bupt.edu.cn>
+
+250 Mail OK
+
+RCPT TO: <xnightmare@sina.com>
+
+250 Mail OK
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Sun, 10 Dec 2017 15:59:20 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>, 
+	xnightmare <xnightmare@sina.com>
+Subject: hello
+X-Priority: 3
+X-GUID: 467A23FC-0837-4FF8-8C6E-9609D90A0D23
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <201712101559206813542@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart641433746810_=----"
+
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart641433746810_=----
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+ztLKx7f+zvHG9w0KDQoNCg0KeG5pZ2h0bWFyZUAxNjMuY29tDQo=
+
+------=_001_NextPart641433746810_=----
+Content-Type: text/html;
+	charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DGB2312"><style>body { line-height: 1.5; }body { font-size: 10.5pt; fon=
+t-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5; }</=
+style></head><body>=0A<div><span></span>=CE=D2=CA=C7=B7=FE=CE=F1=C6=F7</di=
+v>=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=3D"#b5c=
+4df" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN: 10px; F=
+ONT-FAMILY: verdana; FONT-SIZE: 10pt"><div>xnightmare@163.com</div></div><=
+/span></div>=0A</body></html>
+------=_001_NextPart641433746810_=------
+
+.
+
+220 mx1.bupt.edu.cn ESMTP AnyMacro(G7)
+
+EHLO WIN-JGUUS7JQP70
+
+250-mx1.bupt.edu.cn
+250-PIPELINING
+250-SIZE 1524000000
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+
+MAIL FROM: <xnightmare@163.com>
+
+250 2.1.0 Ok
+
+RCPT TO: <xnightmare@bupt.edu.cn>
+
+250 2.1.5 Ok
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Sun, 10 Dec 2017 15:59:20 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>, 
+	xnightmare <xnightmare@sina.com>
+Subject: hello
+X-Priority: 3
+X-GUID: 467A23FC-0837-4FF8-8C6E-9609D90A0D23
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <201712101559206813542@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart641433746810_=----"
+
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart641433746810_=----
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+ztLKx7f+zvHG9w0KDQoNCg0KeG5pZ2h0bWFyZUAxNjMuY29tDQo=
+
+------=_001_NextPart641433746810_=----
+Content-Type: text/html;
+	charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DGB2312"><style>body { line-height: 1.5; }body { font-size: 10.5pt; fon=
+t-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5; }</=
+style></head><body>=0A<div><span></span>=CE=D2=CA=C7=B7=FE=CE=F1=C6=F7</di=
+v>=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=3D"#b5c=
+4df" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN: 10px; F=
+ONT-FAMILY: verdana; FONT-SIZE: 10pt"><div>xnightmare@163.com</div></div><=
+/span></div>=0A</body></html>
+------=_001_NextPart641433746810_=------
+
+.
+
+250 2.0.0 Ok: queued as 441DA19F39C
+
+QUIT
+
+221 2.0.0 Bye
+
+220 mx-11-97.mxsmail.fmail.tg.sinanode.com ESMTP
+
+EHLO WIN-JGUUS7JQP70
+
+250-mx-11-97.mxsmail.fmail.tg.sinanode.com
+250 8BITMIME
+
+MAIL FROM: <xnightmare@163.com>
+
+250 ok
+
+RCPT TO: <xnightmare@sina.com>
+
+250 ok
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Sun, 10 Dec 2017 15:59:20 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>, 
+	xnightmare <xnightmare@sina.com>
+Subject: hello
+X-Priority: 3
+X-GUID: 467A23FC-0837-4FF8-8C6E-9609D90A0D23
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <201712101559206813542@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart641433746810_=----"
+
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart641433746810_=----
+Content-Type: text/plain;
+	charset="GB2312"
+Content-Transfer-Encoding: base64
+
+ztLKx7f+zvHG9w0KDQoNCg0KeG5pZ2h0bWFyZUAxNjMuY29tDQo=
+
+------=_001_NextPart641433746810_=----
+Content-Type: text/html;
+	charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DGB2312"><style>body { line-height: 1.5; }body { font-size: 10.5pt; fon=
+t-family: 'Microsoft YaHei UI'; color: rgb(0, 0, 0); line-height: 1.5; }</=
+style></head><body>=0A<div><span></span>=CE=D2=CA=C7=B7=FE=CE=F1=C6=F7</di=
+v>=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=3D"#b5c=
+4df" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN: 10px; F=
+ONT-FAMILY: verdana; FONT-SIZE: 10pt"><div>xnightmare@163.com</div></div><=
+/span></div>=0A</body></html>
+------=_001_NextPart641433746810_=------
+
+.
+
+250 ok queue id 1202939961848
+
+QUIT
+
+221 mx-11-97.mxsmail.fmail.tg.sinanode.com
+
+250 Mail OK
+

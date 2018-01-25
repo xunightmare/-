@@ -1,0 +1,120 @@
+log-2017 12 7 Thu 20 2 19.txt
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <xnightmare@bupt.edu.cn>
+
+250 Mail OK
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+X-NonEncodeAttach: True
+Date: Thu, 7 Dec 2017 20:02:35 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>
+Subject: null
+X-Priority: 3
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <201712072002349827581@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart533657471443_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart533657471443_=----
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: base64
+
+
+------=_001_NextPart533657471443_=----
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3Dus-ascii"></head><body></body></html>
+------=_001_NextPart533657471443_=------
+
+.
+
+250 Mail OK
+
+QUIT
+
+220 mx1.bupt.edu.cn ESMTP AnyMacro(G7)
+
+EHLO LAPTOP-I0T5EB7U
+
+250-mx1.bupt.edu.cn
+250-PIPELINING
+250-SIZE 1524000000
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+
+MAIL FROM: <xnightmare@163.com>
+
+250 2.1.0 Ok
+
+RCPT TO: <xnightmare@bupt.edu.cn>
+
+250 2.1.5 Ok
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+X-NonEncodeAttach: True
+Date: Thu, 7 Dec 2017 20:02:35 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>
+Subject: null
+X-Priority: 3
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <201712072002349827581@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart533657471443_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart533657471443_=----
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: base64
+
+
+------=_001_NextPart533657471443_=----
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3Dus-ascii"></head><body></body></html>
+------=_001_NextPart533657471443_=------
+
+.
+
+250 2.0.0 Ok: queued as A44C719F383
+
+QUIT
+
+221 2.0.0 Bye
+

@@ -1,0 +1,254 @@
+2017 12 10 Sun 13 49 18
+220 beta OK
+
+EHLO LAPTOP-I0T5EB7U
+
+250 OK
+
+MAIL FROM: <xnightmare@163.com>
+
+250 Mail OK
+
+RCPT TO: <xnightmare@bupt.edu.cn>
+
+250 Mail OK
+
+RCPT TO: <xnightmare@sina.com>
+
+250 Mail OK
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Sun, 10 Dec 2017 13:49:22 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>, 
+	xnightmare <xnightmare@sina.com>
+Subject: Re: null
+References: <201712101112105535636@163.com>
+X-Priority: 3
+X-GUID: 6DFD5720-FF8C-4379-8B9F-D481A3B6BC2E
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <2017121013184449125610@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart812148740373_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart812148740373_=----
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: base64
+
+MQ0KDQoNCg0KeG5pZ2h0bWFyZUAxNjMuY29tDQogDQpGcm9tOiB4bmlnaHRtYXJlQDE2My5jb20N
+CkRhdGU6IDIwMTctMTItMTAgMTE6MTINClRvOiB4bmlnaHRtYXJlDQpTdWJqZWN0OiBudWxsDQpu
+dWxsDQoNCg0KDQp4bmlnaHRtYXJlQDE2My5jb20NCg==
+
+------=_001_NextPart812148740373_=----
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DISO-8859-1"><style>body { line-height: 1.5; }blockquote { margin-top: =
+0px; margin-bottom: 0px; margin-left: 0.5em; }div.FoxDiv201712101318249882=
+31 { }body { font-size: 10.5pt; font-family: 'Microsoft YaHei UI'; color: =
+rgb(0, 0, 0); line-height: 1.5; }</style></head><body>=0A<div><span></span=
+>1</div>=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=
+=3D"#b5c4df" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN:=
+ 10px; FONT-FAMILY: verdana; FONT-SIZE: 10pt"><div>xnightmare@163.com</div=
+></div></span></div>=0A<blockquote style=3D"margin-Top: 0px; margin-Bottom=
+: 0px; margin-Left: 0.5em"><div>&nbsp;</div><div style=3D"border:none;bord=
+er-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm"><div style=3D"PADDIN=
+G-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 12px;FONT-FAMILY:tahoma;COLOR:=
+#000000; BACKGROUND: #efefef; PADDING-BOTTOM: 8px; PADDING-TOP: 8px"><div>=
+<b>From:</b>&nbsp;<a href=3D"mailto:xnightmare@163.com">xnightmare@163.com=
+</a></div><div><b>Date:</b>&nbsp;2017-12-10&nbsp;11:12</div><div><b>To:</b=
+>&nbsp;<a href=3D"mailto:xnightmare@bupt.edu.cn">xnightmare</a></div><div>=
+<b>Subject:</b>&nbsp;null</div></div></div><div><div class=3D"FoxDiv201712=
+10131824988231">=0A<div><span></span>null</div>=0A<div><br></div><hr style=
+=3D"width: 210px; height: 1px;" color=3D"#b5c4df" size=3D"1" align=3D"left=
+">=0A<div><span><div style=3D"MARGIN: 10px; FONT-FAMILY: verdana; FONT-SIZ=
+E: 10pt"><div>xnightmare@163.com</div></div></span></div>=0A</div></div></=
+blockquote>=0A</body></html>
+------=_001_NextPart812148740373_=------
+
+.
+
+220 mx1.bupt.edu.cn ESMTP AnyMacro(G7)
+
+EHLO LAPTOP-I0T5EB7U
+
+250-mx1.bupt.edu.cn
+250-PIPELINING
+250-SIZE 1524000000
+250-ETRN
+250-STARTTLS
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+
+MAIL FROM: <xnightmare@163.com>
+
+250 2.1.0 Ok
+
+RCPT TO: <xnightmare@bupt.edu.cn>
+
+250 2.1.5 Ok
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Sun, 10 Dec 2017 13:49:22 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>, 
+	xnightmare <xnightmare@sina.com>
+Subject: Re: null
+References: <201712101112105535636@163.com>
+X-Priority: 3
+X-GUID: 6DFD5720-FF8C-4379-8B9F-D481A3B6BC2E
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <2017121013184449125610@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart812148740373_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart812148740373_=----
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: base64
+
+MQ0KDQoNCg0KeG5pZ2h0bWFyZUAxNjMuY29tDQogDQpGcm9tOiB4bmlnaHRtYXJlQDE2My5jb20N
+CkRhdGU6IDIwMTctMTItMTAgMTE6MTINClRvOiB4bmlnaHRtYXJlDQpTdWJqZWN0OiBudWxsDQpu
+dWxsDQoNCg0KDQp4bmlnaHRtYXJlQDE2My5jb20NCg==
+
+------=_001_NextPart812148740373_=----
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DISO-8859-1"><style>body { line-height: 1.5; }blockquote { margin-top: =
+0px; margin-bottom: 0px; margin-left: 0.5em; }div.FoxDiv201712101318249882=
+31 { }body { font-size: 10.5pt; font-family: 'Microsoft YaHei UI'; color: =
+rgb(0, 0, 0); line-height: 1.5; }</style></head><body>=0A<div><span></span=
+>1</div>=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=
+=3D"#b5c4df" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN:=
+ 10px; FONT-FAMILY: verdana; FONT-SIZE: 10pt"><div>xnightmare@163.com</div=
+></div></span></div>=0A<blockquote style=3D"margin-Top: 0px; margin-Bottom=
+: 0px; margin-Left: 0.5em"><div>&nbsp;</div><div style=3D"border:none;bord=
+er-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm"><div style=3D"PADDIN=
+G-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 12px;FONT-FAMILY:tahoma;COLOR:=
+#000000; BACKGROUND: #efefef; PADDING-BOTTOM: 8px; PADDING-TOP: 8px"><div>=
+<b>From:</b>&nbsp;<a href=3D"mailto:xnightmare@163.com">xnightmare@163.com=
+</a></div><div><b>Date:</b>&nbsp;2017-12-10&nbsp;11:12</div><div><b>To:</b=
+>&nbsp;<a href=3D"mailto:xnightmare@bupt.edu.cn">xnightmare</a></div><div>=
+<b>Subject:</b>&nbsp;null</div></div></div><div><div class=3D"FoxDiv201712=
+10131824988231">=0A<div><span></span>null</div>=0A<div><br></div><hr style=
+=3D"width: 210px; height: 1px;" color=3D"#b5c4df" size=3D"1" align=3D"left=
+">=0A<div><span><div style=3D"MARGIN: 10px; FONT-FAMILY: verdana; FONT-SIZ=
+E: 10pt"><div>xnightmare@163.com</div></div></span></div>=0A</div></div></=
+blockquote>=0A</body></html>
+------=_001_NextPart812148740373_=------
+
+.
+
+250 2.0.0 Ok: queued as CE12019F35E
+
+QUIT
+
+221 2.0.0 Bye
+
+220 mx-11-43.mxsmail.fmail.tg.sinanode.com ESMTP
+
+EHLO LAPTOP-I0T5EB7U
+
+250-mx-11-43.mxsmail.fmail.tg.sinanode.com
+250 8BITMIME
+
+MAIL FROM: <xnightmare@163.com>
+
+250 ok
+
+RCPT TO: <xnightmare@sina.com>
+
+250 ok
+
+DATA
+
+354 End data with <CR><LF>.<CR><LF>
+
+Date: Sun, 10 Dec 2017 13:49:22 +0800
+From: "xnightmare@163.com" <xnightmare@163.com>
+To: xnightmare <xnightmare@bupt.edu.cn>, 
+	xnightmare <xnightmare@sina.com>
+Subject: Re: null
+References: <201712101112105535636@163.com>
+X-Priority: 3
+X-GUID: 6DFD5720-FF8C-4379-8B9F-D481A3B6BC2E
+X-Has-Attach: no
+X-Mailer: Foxmail 7.2.9.89[cn]
+Mime-Version: 1.0
+Message-ID: <2017121013184449125610@163.com>
+Content-Type: multipart/alternative;
+	boundary="----=_001_NextPart812148740373_=----"
+
+This is a multi-part message in MIME format.
+
+------=_001_NextPart812148740373_=----
+Content-Type: text/plain;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: base64
+
+MQ0KDQoNCg0KeG5pZ2h0bWFyZUAxNjMuY29tDQogDQpGcm9tOiB4bmlnaHRtYXJlQDE2My5jb20N
+CkRhdGU6IDIwMTctMTItMTAgMTE6MTINClRvOiB4bmlnaHRtYXJlDQpTdWJqZWN0OiBudWxsDQpu
+dWxsDQoNCg0KDQp4bmlnaHRtYXJlQDE2My5jb20NCg==
+
+------=_001_NextPart812148740373_=----
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charse=
+t=3DISO-8859-1"><style>body { line-height: 1.5; }blockquote { margin-top: =
+0px; margin-bottom: 0px; margin-left: 0.5em; }div.FoxDiv201712101318249882=
+31 { }body { font-size: 10.5pt; font-family: 'Microsoft YaHei UI'; color: =
+rgb(0, 0, 0); line-height: 1.5; }</style></head><body>=0A<div><span></span=
+>1</div>=0A<div><br></div><hr style=3D"width: 210px; height: 1px;" color=
+=3D"#b5c4df" size=3D"1" align=3D"left">=0A<div><span><div style=3D"MARGIN:=
+ 10px; FONT-FAMILY: verdana; FONT-SIZE: 10pt"><div>xnightmare@163.com</div=
+></div></span></div>=0A<blockquote style=3D"margin-Top: 0px; margin-Bottom=
+: 0px; margin-Left: 0.5em"><div>&nbsp;</div><div style=3D"border:none;bord=
+er-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm"><div style=3D"PADDIN=
+G-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 12px;FONT-FAMILY:tahoma;COLOR:=
+#000000; BACKGROUND: #efefef; PADDING-BOTTOM: 8px; PADDING-TOP: 8px"><div>=
+<b>From:</b>&nbsp;<a href=3D"mailto:xnightmare@163.com">xnightmare@163.com=
+</a></div><div><b>Date:</b>&nbsp;2017-12-10&nbsp;11:12</div><div><b>To:</b=
+>&nbsp;<a href=3D"mailto:xnightmare@bupt.edu.cn">xnightmare</a></div><div>=
+<b>Subject:</b>&nbsp;null</div></div></div><div><div class=3D"FoxDiv201712=
+10131824988231">=0A<div><span></span>null</div>=0A<div><br></div><hr style=
+=3D"width: 210px; height: 1px;" color=3D"#b5c4df" size=3D"1" align=3D"left=
+">=0A<div><span><div style=3D"MARGIN: 10px; FONT-FAMILY: verdana; FONT-SIZ=
+E: 10pt"><div>xnightmare@163.com</div></div></span></div>=0A</div></div></=
+blockquote>=0A</body></html>
+------=_001_NextPart812148740373_=------
+
+.
+
+250 ok queue id 349370131192
+
+QUIT
+
+221 mx-11-43.mxsmail.fmail.tg.sinanode.com
+
+250 Mail OK
+
